@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\IT\\A_Guide_to_Running_Tensorflow_Models_on_Android\\mnistandroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_copy.png",
+        "source": "E:\\IT\\A_Guide_to_Running_Tensorflow_Models_on_Android\\mnistandroid\\app\\src\\main\\res\\mipmap-mdpi\\ic_copy.png"
+    },
+    {
+        "merged": "E:\\IT\\A_Guide_to_Running_Tensorflow_Models_on_Android\\mnistandroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_foreground.png",
+        "source": "E:\\IT\\A_Guide_to_Running_Tensorflow_Models_on_Android\\mnistandroid\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\IT\\A_Guide_to_Running_Tensorflow_Models_on_Android\\mnistandroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_scan.png",
+        "source": "E:\\IT\\A_Guide_to_Running_Tensorflow_Models_on_Android\\mnistandroid\\app\\src\\main\\res\\mipmap-mdpi\\ic_scan.png"
+    },
+    {
+        "merged": "E:\\IT\\A_Guide_to_Running_Tensorflow_Models_on_Android\\mnistandroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "E:\\IT\\A_Guide_to_Running_Tensorflow_Models_on_Android\\mnistandroid\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\IT\\A_Guide_to_Running_Tensorflow_Models_on_Android\\mnistandroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_tick.png",
+        "source": "E:\\IT\\A_Guide_to_Running_Tensorflow_Models_on_Android\\mnistandroid\\app\\src\\main\\res\\mipmap-mdpi\\ic_tick.png"
+    },
+    {
+        "merged": "E:\\IT\\A_Guide_to_Running_Tensorflow_Models_on_Android\\mnistandroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\btn_copy.png",
+        "source": "E:\\IT\\A_Guide_to_Running_Tensorflow_Models_on_Android\\mnistandroid\\app\\src\\main\\res\\mipmap-mdpi\\btn_copy.png"
+    },
+    {
+        "merged": "E:\\IT\\A_Guide_to_Running_Tensorflow_Models_on_Android\\mnistandroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_bgm.png",
+        "source": "E:\\IT\\A_Guide_to_Running_Tensorflow_Models_on_Android\\mnistandroid\\app\\src\\main\\res\\mipmap-mdpi\\ic_bgm.png"
+    },
+    {
+        "merged": "E:\\IT\\A_Guide_to_Running_Tensorflow_Models_on_Android\\mnistandroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "E:\\IT\\A_Guide_to_Running_Tensorflow_Models_on_Android\\mnistandroid\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\IT\\A_Guide_to_Running_Tensorflow_Models_on_Android\\mnistandroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_save.png",
+        "source": "E:\\IT\\A_Guide_to_Running_Tensorflow_Models_on_Android\\mnistandroid\\app\\src\\main\\res\\mipmap-mdpi\\ic_save.png"
+    }
+]

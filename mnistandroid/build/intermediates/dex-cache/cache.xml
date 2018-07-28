@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sagar\.android\build-cache\695da30187854ba99106233ba41efe73b31c12a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\IT\A_Guide_to_Running_Tensorflow_Models_on_Android\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_6ebad9195a6cdc02b8540f9bdfa884078fb5a494.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sagar\.android\build-cache\f8cf3ef54aa19c835af695cd918739400fb30b24\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\IT\A_Guide_to_Running_Tensorflow_Models_on_Android\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_48745061c7569ba3677c673f192423cec7ee8b00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sagar\.android\build-cache\343a32c2cb08aa5f8eb4f4f7dfd4d5c40dece621\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\IT\A_Guide_to_Running_Tensorflow_Models_on_Android\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_8aa5ae4fa1600305304e5c02d98ad73ad057eb76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sagar\.android\build-cache\8fc8c516b6381be3670e0fdbbc7f6babcfb58ea4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\IT\A_Guide_to_Running_Tensorflow_Models_on_Android\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_6866f5d2e8b512f8b9f440517b4886c56d233c34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sagar\.android\build-cache\e44c1cbccb7c57ad85c5f4a7d7890bc0f07e4e72\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08b7bb0240c9df70b9af7c07496023df477d2640">
+        <dex dex="E:\IT\A_Guide_to_Running_Tensorflow_Models_on_Android\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_20982330df2bcb9d2848327b092741f59f413f7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sagar\.android\build-cache\4f77a60ef56face80be07c6823ef895fc37392f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\IT\A_Guide_to_Running_Tensorflow_Models_on_Android\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_62e4cc9f0b12a51c74192af9ad518b500265bafd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sagar\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\IT\A_Guide_to_Running_Tensorflow_Models_on_Android\mnistandroid\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_1d338a42b79d5fb1148137f72716563ff09fbe0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sagar\.android\build-cache\d2aeff56f42ba7627dcd73db558643864167f18f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\IT\A_Guide_to_Running_Tensorflow_Models_on_Android\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_a18b9bcc43abfdb3cf42bed117d339a5e4580392.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sagar\.android\build-cache\1c94c56038cb4567e7121dcefa8434e6ad9727fd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\IT\A_Guide_to_Running_Tensorflow_Models_on_Android\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_81efdbba17e58256f9efee292820d09982917a17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sagar\.android\build-cache\f2de5de63edb5f155146de92770c4966fbf054eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\IT\A_Guide_to_Running_Tensorflow_Models_on_Android\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_258d6711ad3849d767857e4b35fe5947b4dcb2d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sagar\.android\build-cache\df62a163b3388086dd9f6045031b31c95a2353b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\IT\A_Guide_to_Running_Tensorflow_Models_on_Android\mnistandroid\app\build\intermediates\pre-dexed\debug\classes_cdd6c7695f6105153e5a4031859efe851b41a3b8.jar" />
+    </item>
+
+</items>
