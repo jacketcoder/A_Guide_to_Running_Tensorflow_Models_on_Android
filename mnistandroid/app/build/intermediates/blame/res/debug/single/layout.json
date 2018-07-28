@@ -60,6 +60,14 @@
         "source": "C:\\Users\\Sagar\\.android\\build-cache\\df62a163b3388086dd9f6045031b31c95a2353b3\\output\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
+        "merged": "E:\\IT\\A_Guide_to_Running_Tensorflow_Models_on_Android\\mnistandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Sagar\\.android\\build-cache\\df62a163b3388086dd9f6045031b31c95a2353b3\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\IT\\A_Guide_to_Running_Tensorflow_Models_on_Android\\mnistandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Sagar\\.android\\build-cache\\df62a163b3388086dd9f6045031b31c95a2353b3\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
         "merged": "E:\\IT\\A_Guide_to_Running_Tensorflow_Models_on_Android\\mnistandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_camera.xml",
         "source": "E:\\IT\\A_Guide_to_Running_Tensorflow_Models_on_Android\\mnistandroid\\app\\src\\main\\res\\layout\\activity_camera.xml"
     },
@@ -154,6 +162,10 @@
     {
         "merged": "E:\\IT\\A_Guide_to_Running_Tensorflow_Models_on_Android\\mnistandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
         "source": "C:\\Users\\Sagar\\.android\\build-cache\\df62a163b3388086dd9f6045031b31c95a2353b3\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\IT\\A_Guide_to_Running_Tensorflow_Models_on_Android\\mnistandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Sagar\\.android\\build-cache\\df62a163b3388086dd9f6045031b31c95a2353b3\\output\\res\\layout\\notification_template_icon_group.xml"
     },
     {
         "merged": "E:\\IT\\A_Guide_to_Running_Tensorflow_Models_on_Android\\mnistandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",

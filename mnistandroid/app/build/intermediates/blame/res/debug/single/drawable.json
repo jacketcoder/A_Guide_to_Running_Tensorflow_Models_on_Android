@@ -76,6 +76,10 @@
         "source": "C:\\Users\\Sagar\\.android\\build-cache\\df62a163b3388086dd9f6045031b31c95a2353b3\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
+        "merged": "E:\\IT\\A_Guide_to_Running_Tensorflow_Models_on_Android\\mnistandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Sagar\\.android\\build-cache\\df62a163b3388086dd9f6045031b31c95a2353b3\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
         "merged": "E:\\IT\\A_Guide_to_Running_Tensorflow_Models_on_Android\\mnistandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
         "source": "C:\\Users\\Sagar\\.android\\build-cache\\df62a163b3388086dd9f6045031b31c95a2353b3\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
@@ -170,6 +174,10 @@
     {
         "merged": "E:\\IT\\A_Guide_to_Running_Tensorflow_Models_on_Android\\mnistandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
         "source": "C:\\Users\\Sagar\\.android\\build-cache\\df62a163b3388086dd9f6045031b31c95a2353b3\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\IT\\A_Guide_to_Running_Tensorflow_Models_on_Android\\mnistandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Sagar\\.android\\build-cache\\df62a163b3388086dd9f6045031b31c95a2353b3\\output\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
         "merged": "E:\\IT\\A_Guide_to_Running_Tensorflow_Models_on_Android\\mnistandroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
